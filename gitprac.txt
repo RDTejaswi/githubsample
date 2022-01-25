@@ -1,4 +1,5 @@
 This file is used for getting Git advanced concepts
 Adding new updates to commit the changes to created branch
 adding emergency hot fix
+test conflict`1
 
