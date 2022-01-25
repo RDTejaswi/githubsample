@@ -1,2 +1,3 @@
 This file is used for getting Git advanced concepts
 Adding new updates to commit the changes to created branch
+adding another chnage in master so as to check the conflicts during branch merge
