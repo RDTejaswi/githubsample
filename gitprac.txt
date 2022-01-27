@@ -4,3 +4,4 @@ adding another chnage in master so as to check the conflicts during branch merge
 adding emergency hot fix
 test conflict`1
 github changes
+commiting changes directly in git
