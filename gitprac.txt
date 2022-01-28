@@ -2,7 +2,7 @@ This file is used for getting Git advanced concepts
 Adding new updates to commit the changes to created branch
 adding another chnage in master so as to check the conflicts during branch merge
 adding emergency hot fix
-new line added
+test local new branch changes
 New updates as on today 27th Jan
 push chnages test
 updating chnages inside the new branch 
